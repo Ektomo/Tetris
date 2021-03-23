@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="high_score_default">High score: 0</string>
+    <string name="new_game">New game</string>
+    <string name="reset_score">Reset score</string>
+    <string name="current_score">Current score</string>
+    <string name="high_score">High score</string>
+    <string name="restart">Restart</string>
+</resources>
